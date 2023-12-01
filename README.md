@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning prompt engineering
 - 💞️ I’m looking to collaborate on not much
 - 📫 How to reach me by messaging here
+- Also now learning python 
 
 <!---
 KNIGHT-AI-CONTENT-CREATOR/KNIGHT-AI-CONTENT-CREATOR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
